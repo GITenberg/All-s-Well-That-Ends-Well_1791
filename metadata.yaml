@@ -1,5 +1,5 @@
 _repo: All-s-Well-That-Ends-Well_1791
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Florence (Italy) -- Drama'
 - !lcsh 'Runaway husbands -- Drama'
+- GITenberg
 title: All's Well That Ends Well
 url: http://www.gutenberg.org/ebooks/1791
